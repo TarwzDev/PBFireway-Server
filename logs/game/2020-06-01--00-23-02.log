@@ -1,0 +1,16 @@
+[Categoria INVÁLIDA] 0
+[Categoria INVÁLIDA] 0
+[Categoria INVÁLIDA] 0
+[Categoria INVÁLIDA] 0
+[Categoria INVÁLIDA] 0
+[Aviso] Existem 6 itens na loja invisíveis, porém com os ícones liberados.
+Trounament Rules @Camp Count: 0
+Trounament Rules @Cnpb Count: 0
+Trounament Rules @79 Count: 0
+Trounament Rules @lan Count: 0
+[GAME] Servidor [001] foi iniciado com sucesso!
+Ocorreu um problema ao carregar os eventos!
+System.IndexOutOfRangeException: Column must be between 0 and 4
+   at Npgsql.NpgsqlDataReader.CheckColumn(Int32 column)
+   at Npgsql.NpgsqlDefaultDataReader.GetFieldValue[T](Int32 column)
+   at Core.managers.PlayerManager.getPlayerEventDB(Int64 pId)

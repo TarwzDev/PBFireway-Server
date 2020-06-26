@@ -1,0 +1,10 @@
+[Aviso] Existem 311 itens na loja invisíveis, porém com os ícones liberados.
+Trounament Rules @Camp Count: 435
+Trounament Rules @Cnpb Count: 0
+Trounament Rules @79 Count: 0
+Trounament Rules @lan Count: 606
+[GAME] Servidor [001] foi iniciado com sucesso!
+[Data do erro: 27/05/2020 15:13] Obj: 380045; Id do item: 100003131; Count na Db: 953856000; Id do cara: 5022; Nick: 'OrNoTDLL'
+System.OverflowException: Valor era muito grande ou muito pequeno para UInt32.
+   em System.Number.ParseUInt32(String value, NumberStyles options, NumberFormatInfo numfmt)
+   em Game.global.clientpacket.INVENTORY_ITEM_EQUIP_REC.run()

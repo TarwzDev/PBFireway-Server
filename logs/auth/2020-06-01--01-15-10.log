@@ -1,0 +1,9 @@
+[AUTH] Servidor de login foi iniciado com sucesso!
+ [LOGIN] Efetuando login. Date: 01/06/2020 01:15:23 User: malakaloca MAC: 000000000000 IP: 177.36.6.242
+System.InvalidCastException: Column is null
+   at Npgsql.NpgsqlDefaultDataReader.GetFieldValue[T](Int32 column)
+   at Core.managers.PlayerManager.getPlayerBonusDB(Int64 id)
+Ocorreu um problema ao carregar os eventos!
+System.InvalidCastException: Column is null
+   at Npgsql.NpgsqlDefaultDataReader.GetFieldValue[T](Int32 column)
+   at Core.managers.PlayerManager.getPlayerEventDB(Int64 pId)

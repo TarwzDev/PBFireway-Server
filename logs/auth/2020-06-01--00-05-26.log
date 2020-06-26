@@ -1,0 +1,10 @@
+[AUTH] Servidor de login foi iniciado com sucesso!
+ [LOGIN] Efetuando login. Date: 01/06/2020 00:06:15 User: testing MAC: 7085C2C6D462 IP: 177.36.6.242
+System.InvalidCastException: Can't cast database type integer to String
+   at Npgsql.NpgsqlDefaultDataReader.GetFieldValue[T](Int32 column)
+   at Core.managers.PlayerManager.getPlayerBonusDB(Int64 id)
+Ocorreu um problema ao carregar os eventos!
+System.IndexOutOfRangeException: Column must be between 0 and 4
+   at Npgsql.NpgsqlDataReader.CheckColumn(Int32 column)
+   at Npgsql.NpgsqlDefaultDataReader.GetFieldValue[T](Int32 column)
+   at Core.managers.PlayerManager.getPlayerEventDB(Int64 pId)

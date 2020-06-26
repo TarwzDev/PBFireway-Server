@@ -1,0 +1,31 @@
+[AUTH] Servidor de login foi iniciado com sucesso!
+ [LOGIN] Efetuando login. Date: 29/05/2020 08:25:23 User: neto157 MAC: 80EE73D1E796 IP: 168.0.233.106
+ [LOGIN] Efetuando login. Date: 29/05/2020 09:20:53 User: gabrielbass15 MAC: 7071BC3C18D7 IP: 179.176.20.141
+ [LOGIN] Efetuando login. Date: 29/05/2020 09:25:40 User: gabrielbass15 MAC: 7071BC3C18D7 IP: 179.176.20.141
+ [LOGIN] Efetuando login. Date: 29/05/2020 09:47:18 User: gabrielbass15 MAC: 7071BC3C18D7 IP: 187.58.92.9
+ [LOGIN] Efetuando login. Date: 29/05/2020 09:47:20 User: agrellaandre1 MAC: ECA86BB382EB IP: 191.177.181.179
+ [Auth] [BASE_USER_FRIENDS_PAK] System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Auth.global.serverpacket.BASE_USER_FRIENDS_PAK.write()
+ [LOGIN] Efetuando login. Date: 29/05/2020 09:50:03 User: gabrielbass15 MAC: 7071BC3C18D7 IP: 187.58.92.9
+ [LOGIN] Efetuando login. Date: 29/05/2020 11:01:16 User: neto157 MAC: 80EE73D1E796 IP: 168.0.233.106
+ [LOGIN] Efetuando login. Date: 29/05/2020 11:26:06 User: agrellaandre1 MAC: ECA86BB382EB IP: 191.177.181.179
+ [Auth] [BASE_USER_FRIENDS_PAK] System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Auth.global.serverpacket.BASE_USER_FRIENDS_PAK.write()
+ [LOGIN] Efetuando login. Date: 29/05/2020 11:32:29 User: gabrielbass15 MAC: 7071BC3C18D7 IP: 187.58.92.9
+ [LOGIN] Efetuando login. Date: 29/05/2020 11:59:38 User: neto157 MAC: 80EE73D1E796 IP: 168.0.233.106
+ [LOGIN] Efetuando login. Date: 29/05/2020 12:28:03 User: gabrielbass15 MAC: 7071BC3C18D7 IP: 187.58.92.9
+ [LOGIN] Efetuando login. Date: 29/05/2020 13:30:54 User: gabrielbass15 MAC: 7071BC3C18D7 IP: 187.58.92.9
+ [LOGIN] Efetuando login. Date: 29/05/2020 13:53:33 User: gabrielbass15 MAC: 7071BC3C18D7 IP: 187.58.92.9
+ [LOGIN] Efetuando login. Date: 29/05/2020 14:51:25 User: hellozim MAC: 80EE73B1F807 IP: 200.53.206.118
+ [LOGIN] Efetuando login. Date: 29/05/2020 14:52:51 User: gabrielbass2005 MAC: 7071BC3C18D7 IP: 187.58.92.9
+ [LOGIN] Efetuando login. Date: 29/05/2020 15:03:52 User: gabrielbass15 MAC: 7071BC3C18D7 IP: 187.58.92.9
+ [LOGIN] Efetuando login. Date: 29/05/2020 15:29:33 User: destroylife1000 MAC: 00FFCA9E3D39 IP: 186.220.198.76
+ [Auth] [BASE_USER_FRIENDS_PAK] System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Auth.global.serverpacket.BASE_USER_FRIENDS_PAK.write()
+ [LOGIN] Efetuando login. Date: 29/05/2020 15:39:02 User: hellozim MAC: 80EE73B1F807 IP: 200.53.206.118
+ [LOGIN] Efetuando login. Date: 29/05/2020 16:51:45 User: agrellaandre1 MAC: ECA86BB382EB IP: 191.177.181.179
+ [Auth] [BASE_USER_FRIENDS_PAK] System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Auth.global.serverpacket.BASE_USER_FRIENDS_PAK.write()
+ [LOGIN] Efetuando login. Date: 29/05/2020 17:40:55 User: destroylife1000 MAC: 00FFCA9E3D39 IP: 186.220.198.76
+ [Auth] [BASE_USER_FRIENDS_PAK] System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Auth.global.serverpacket.BASE_USER_FRIENDS_PAK.write()

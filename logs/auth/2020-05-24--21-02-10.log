@@ -1,0 +1,42 @@
+[AUTH] Servidor de login foi iniciado com sucesso!
+ [LOGIN] Efetuando login. Date: 24/05/2020 21:02:22 User: gabrielbass15 MAC: 7071BC3C18D7 IP: 177.158.169.186
+ [Auth] [BASE_USER_FRIENDS_PAK] System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Auth.global.serverpacket.BASE_USER_FRIENDS_PAK.write()
+ [LOGIN] Efetuando login. Date: 24/05/2020 21:02:47 User: destroylife1000 MAC: 00FFCA9E3D39 IP: 186.220.198.76
+ [Auth] [BASE_USER_FRIENDS_PAK] System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Auth.global.serverpacket.BASE_USER_FRIENDS_PAK.write()
+ [LOGIN] Efetuando login. Date: 24/05/2020 21:03:23 User: ch9px MAC: 04D9F5D840C8 IP: 168.121.218.44
+ [Auth] [BASE_USER_FRIENDS_PAK] System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Auth.global.serverpacket.BASE_USER_FRIENDS_PAK.write()
+ [LOGIN] Efetuando login. Date: 24/05/2020 21:04:14 User: thomas MAC: 1C394760046E IP: 177.37.173.49
+ [Auth] [BASE_USER_FRIENDS_PAK] System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Auth.global.serverpacket.BASE_USER_FRIENDS_PAK.write()
+ [LOGIN] Efetuando login. Date: 24/05/2020 21:05:36 User: deadzonev5 MAC: D8CB8A115B85 IP: 131.221.62.12
+ [LOGIN] Efetuando login. Date: 24/05/2020 21:08:07 User: cjonaas MAC: 641C678C07E1 IP: 179.43.168.202
+ [Auth] [BASE_USER_FRIENDS_PAK] System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Auth.global.serverpacket.BASE_USER_FRIENDS_PAK.write()
+ [LOGIN] Efetuando login. Date: 24/05/2020 21:11:29 User: deadzonev5 MAC: D8CB8A115B85 IP: 131.221.62.12
+ [LOGIN] Efetuando login. Date: 24/05/2020 21:24:19 User: cjonaas MAC: 641C678C07E1 IP: 187.2.86.137
+ [Auth] [BASE_USER_FRIENDS_PAK] System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Auth.global.serverpacket.BASE_USER_FRIENDS_PAK.write()
+ [LOGIN] Efetuando login. Date: 24/05/2020 21:35:48 User: cjonaas MAC: 641C678C07E1 IP: 187.2.86.137
+ [Auth] [BASE_USER_FRIENDS_PAK] System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Auth.global.serverpacket.BASE_USER_FRIENDS_PAK.write()
+ [LOGIN] Efetuando login. Date: 24/05/2020 22:18:53 User: mateus MAC: 8E348D2620A2 IP: 187.255.160.239
+ [LOGIN] Efetuando login. Date: 24/05/2020 22:31:44 User: neto157 MAC: 80EE73D1E796 IP: 168.0.233.34
+ [LOGIN] Efetuando login. Date: 24/05/2020 22:39:36 User: cjonaas MAC: 641C678C07E1 IP: 187.2.86.137
+ [Auth] [BASE_USER_FRIENDS_PAK] System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Auth.global.serverpacket.BASE_USER_FRIENDS_PAK.write()
+ [LOGIN] Efetuando login. Date: 24/05/2020 22:46:54 User: neto157 MAC: 80EE73D1E796 IP: 168.0.233.34
+ [LOGIN] Efetuando login. Date: 24/05/2020 22:53:33 User: deadzonev5 MAC: D8CB8A115B85 IP: 131.221.62.12
+ [LOGIN] Efetuando login. Date: 24/05/2020 22:59:23 User: cjonaas MAC: 641C678C07E1 IP: 187.2.86.137
+ [Auth] [BASE_USER_FRIENDS_PAK] System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Auth.global.serverpacket.BASE_USER_FRIENDS_PAK.write()
+ [LOGIN] Efetuando login. Date: 24/05/2020 23:02:27 User: deadzonev5 MAC: D8CB8A115B85 IP: 131.221.62.12
+ [LOGIN] Efetuando login. Date: 24/05/2020 23:24:56 User: destroylife1000 MAC: 00FFCA9E3D39 IP: 186.220.198.76
+ [Auth] [BASE_USER_FRIENDS_PAK] System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Auth.global.serverpacket.BASE_USER_FRIENDS_PAK.write()
+ [LOGIN] Efetuando login. Date: 25/05/2020 00:20:26 User: palafrp123 MAC: 5CC9D3B7EF2A IP: 177.11.211.231
+ [Auth] [BASE_USER_FRIENDS_PAK] System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Auth.global.serverpacket.BASE_USER_FRIENDS_PAK.write()
+ [LOGIN] Efetuando login. Date: 25/05/2020 00:54:03 User: ch9px MAC: 04D9F5D840C8 IP: 168.121.218.44

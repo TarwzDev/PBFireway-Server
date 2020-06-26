@@ -1,0 +1,5 @@
+[Data: 20/05/24 20:55:47][Room.addPlayer] Jogador '5001' 'COD'; OldSlot: -1; NewSlot: 0
+[Data: 20/05/24 20:55:54][Room.addPlayer] Jogador '5003' 'Faze|Ch9pX'; OldSlot: -1; NewSlot: 1
+[Data: 20/05/24 20:56:20][Room.SwitchNewSlot] Jogador '5003' 'Faze|Ch9pX'; OldSlot: 1; NewSlot: 2
+[Data: 20/05/24 20:56:22][Room.SwitchNewSlot] Jogador '5003' 'Faze|Ch9pX'; OldSlot: 2; NewSlot: 1
+[Data: 20/05/24 21:00:21][Room.RemovePlayer] Jogador '5003' 'Faze|Ch9pX'; OldSlot: 1; NewSlot: -1

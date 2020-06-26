@@ -1,0 +1,42 @@
+[Data: 20/05/07 15:26:13][Room.addPlayer] Jogador '5759' 'GM DeadzoneV5'; OldSlot: -1; NewSlot: 0
+[Data: 20/05/07 15:27:55][Room.SwitchNewSlot] Jogador '5759' 'GM DeadzoneV5'; OldSlot: 0; NewSlot: 1
+[Data: 20/05/07 15:28:00][Room.SwitchNewSlot] Jogador '5759' 'GM DeadzoneV5'; OldSlot: 1; NewSlot: 0
+[Data: 20/05/07 15:28:05][Room.SwitchNewSlot] Jogador '5759' 'GM DeadzoneV5'; OldSlot: 0; NewSlot: 1
+[Data: 20/05/07 15:45:51][Room.RemovePlayer] Jogador '5759' 'GM DeadzoneV5'; OldSlot: 1; NewSlot: -1
+[Data: 20/05/07 16:12:34][Room.addPlayer] Jogador '5763' 'Destroylife1000'; OldSlot: -1; NewSlot: 0
+[Data: 20/05/07 16:23:04][Room.addPlayer] Jogador '5759' 'GM DeadzoneV5'; OldSlot: -1; NewSlot: 1
+[Data: 20/05/07 16:30:29][Room.RemovePlayer] Jogador '5759' 'GM DeadzoneV5'; OldSlot: 1; NewSlot: -1
+[Data: 20/05/07 16:31:37][Room.addPlayer] Jogador '5759' 'GM DeadzoneV5'; OldSlot: -1; NewSlot: 1
+[Data: 20/05/07 16:31:40][Room.RemovePlayer] Jogador '5759' 'GM DeadzoneV5'; OldSlot: 1; NewSlot: -1
+[Data: 20/05/07 16:32:09][Room.addPlayer] Jogador '5759' 'GM DeadzoneV5'; OldSlot: -1; NewSlot: 0
+[Data: 20/05/07 16:32:41][Room.RemovePlayer] Jogador '5763' 'Destroylife1000'; OldSlot: 0; NewSlot: -1
+[Data: 20/05/07 16:33:55][Room.addPlayer] Jogador '5763' 'Destroylife1000'; OldSlot: -1; NewSlot: 1
+[Data: 20/05/07 16:45:04][Room.SwitchNewSlot] Jogador '5763' 'Destroylife1000'; OldSlot: 1; NewSlot: 2
+[Data: 20/05/07 16:45:27][Room.RemovePlayer] Jogador '5759' 'GM DeadzoneV5'; OldSlot: 0; NewSlot: -1
+[Data: 20/05/07 16:45:41][Room.addPlayer] Jogador '5759' 'GM DeadzoneV5'; OldSlot: -1; NewSlot: 0
+[Data: 20/05/07 16:45:46][ROOM_CHANGE_TEAM_REC] Jogador '5759' 'GM DeadzoneV5'; NewSlot: 1
+[Data: 20/05/07 16:45:46][ROOM_CHANGE_TEAM_REC] Jogador '5763' 'Destroylife1000'; NewSlot: 3
+[Data: 20/05/07 16:45:47][Room.SwitchNewSlot] Jogador '5763' 'Destroylife1000'; OldSlot: 3; NewSlot: 0
+[Data: 20/05/07 16:46:39][Room.RemovePlayer] Jogador '5759' 'GM DeadzoneV5'; OldSlot: 1; NewSlot: -1
+[Data: 20/05/07 16:53:34][Room.addPlayer] Jogador '5759' 'GM DeadzoneV5'; OldSlot: -1; NewSlot: 1
+[Data: 20/05/07 16:55:46][Room.SwitchNewSlot] Jogador '5763' 'Destroylife1000'; OldSlot: 0; NewSlot: 3
+[Data: 20/05/07 16:55:58][Room.SwitchNewSlot] Jogador '5759' 'GM DeadzoneV5'; OldSlot: 1; NewSlot: 0
+[Data: 20/05/07 16:56:03][Room.SwitchNewSlot] Jogador '5763' 'Destroylife1000'; OldSlot: 3; NewSlot: 2
+[Data: 20/05/07 16:57:27][ROOM_CHANGE_TEAM_REC] Jogador '5759' 'GM DeadzoneV5'; NewSlot: 1
+[Data: 20/05/07 16:57:27][ROOM_CHANGE_TEAM_REC] Jogador '5763' 'Destroylife1000'; NewSlot: 3
+[Data: 20/05/07 16:57:28][Room.SwitchNewSlot] Jogador '5763' 'Destroylife1000'; OldSlot: 3; NewSlot: 0
+[Data: 20/05/07 17:27:13][Room.SwitchNewSlot] Jogador '5763' 'Destroylife1000'; OldSlot: 0; NewSlot: 3
+[Data: 20/05/07 17:27:16][Room.SwitchNewSlot] Jogador '5763' 'Destroylife1000'; OldSlot: 3; NewSlot: 0
+[Data: 20/05/07 17:27:41][Room.SwitchNewSlot] Jogador '5763' 'Destroylife1000'; OldSlot: 0; NewSlot: 3
+[Data: 20/05/07 17:27:45][Room.SwitchNewSlot] Jogador '5763' 'Destroylife1000'; OldSlot: 3; NewSlot: 0
+[Data: 20/05/07 17:47:17][Room.SwitchNewSlot] Jogador '5763' 'Destroylife1000'; OldSlot: 0; NewSlot: 3
+[Data: 20/05/07 17:47:25][Room.SwitchNewSlot] Jogador '5763' 'Destroylife1000'; OldSlot: 3; NewSlot: 0
+[Data: 20/05/07 17:54:16][Room.RemovePlayer] Jogador '5763' 'Destroylife1000'; OldSlot: 0; NewSlot: -1
+[Data: 20/05/07 17:54:19][Room.RemovePlayer] Jogador '5759' 'GM DeadzoneV5'; OldSlot: 1; NewSlot: -1
+[Data: 20/05/07 17:54:22][Room.addPlayer] Jogador '5763' 'Destroylife1000'; OldSlot: -1; NewSlot: 0
+[Data: 20/05/07 17:54:29][Room.addPlayer] Jogador '5759' 'GM DeadzoneV5'; OldSlot: -1; NewSlot: 1
+[Data: 20/05/07 18:25:02][Room.RemovePlayer] Jogador '5763' 'Destroylife1000'; OldSlot: 0; NewSlot: -1
+[Data: 20/05/07 18:25:05][Room.RemovePlayer] Jogador '5759' 'GM DeadzoneV5'; OldSlot: 1; NewSlot: -1
+[Data: 20/05/07 18:31:01][Room.addPlayer] Jogador '5763' 'Destroylife1000'; OldSlot: -1; NewSlot: 0
+[Data: 20/05/07 18:31:49][Room.addPlayer] Jogador '5759' 'GM DeadzoneV5'; OldSlot: -1; NewSlot: 1
+[Data: 20/05/07 18:32:38][Room.RemovePlayer] Jogador '5759' 'GM DeadzoneV5'; OldSlot: 1; NewSlot: -1

@@ -1,0 +1,5 @@
+[AUTH] Servidor de login foi iniciado com sucesso!
+ [LOGIN] Efetuando login. Date: 31/05/2020 23:59:04 User: testing MAC: 7085C2C6D462 IP: 177.36.6.242
+System.InvalidCastException: Can't cast database type integer to String
+   at Npgsql.NpgsqlDefaultDataReader.GetFieldValue[T](Int32 column)
+   at Core.managers.PlayerManager.getPlayerBonusDB(Int64 id)

@@ -1,0 +1,7 @@
+[Data: 20/05/29 19:45:43][Room.addPlayer] Jogador '5002' 'GM DeadzoneV5'; OldSlot: -1; NewSlot: 0
+[Data: 20/05/29 19:45:47][Room.RemovePlayer] Jogador '5002' 'GM DeadzoneV5'; OldSlot: 0; NewSlot: -1
+[Data: 20/05/29 20:03:32][Room.addPlayer] Jogador '5001' 'COD'; OldSlot: -1; NewSlot: 0
+[Data: 20/05/29 20:05:15][Room.addPlayer] Jogador '5005' 'GM CJonaas'; OldSlot: -1; NewSlot: 1
+[Data: 20/05/29 20:12:26][Room.addPlayer] Jogador '5000' 'Destroylife1000'; OldSlot: -1; NewSlot: 2
+[Data: 20/05/29 20:15:12][Room.addPlayer] Jogador '5002' 'GM DeadzoneV5'; OldSlot: -1; NewSlot: 3
+[Data: 20/05/29 20:33:20][Room.RemovePlayer] Jogador '5002' 'GM DeadzoneV5'; OldSlot: 3; NewSlot: -1

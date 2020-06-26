@@ -1,0 +1,14 @@
+[Aviso] Loaded 63 maps
+[Aviso] Loaded 76 charas information
+[Aviso] Loaded 20 melee exceptions
+[Aviso] Portas abertas! (20/05/20 13:44:17)
+[Exception] System.Net.Sockets.SocketException (0x80004005): A conexão foi interrompida porque a atividade de manutenção de funcionamento detectou uma falha enquanto a operação estava em andamento
+   em System.Net.Sockets.Socket.EndReceiveFrom(IAsyncResult asyncResult, EndPoint& endPoint)
+   em System.Net.Sockets.UdpClient.EndReceive(IAsyncResult asyncResult, IPEndPoint& remoteEP)
+   em Battle.network.BattleManager.gerenciaRetorno(IAsyncResult ar)
+ CONEXÃO COM A INTERNET PERDIDA...RECONECTANDO A CONEXAO UDP.
+System.Net.Sockets.SocketException (0x80004005): A conexão foi interrompida porque a atividade de manutenção de funcionamento detectou uma falha enquanto a operação estava em andamento
+   em System.Net.Sockets.Socket.DoBeginReceiveFrom(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, EndPoint endPointSnapshot, SocketAddress socketAddress, OverlappedAsyncResult asyncResult)
+   em System.Net.Sockets.Socket.BeginReceiveFrom(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, EndPoint& remoteEP, AsyncCallback callback, Object state)
+   em System.Net.Sockets.UdpClient.BeginReceive(AsyncCallback requestCallback, Object state)
+   em Battle.network.BattleManager.read(UdpState state)

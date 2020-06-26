@@ -1,0 +1,6 @@
+[Data: 20/05/31 18:00:45][Room.addPlayer] Jogador '2' 'Lain'; OldSlot: -1; NewSlot: 0
+[Data: 20/05/31 18:01:18][Room.RemovePlayer] Jogador '2' 'Lain'; OldSlot: 0; NewSlot: -1
+[Data: 20/05/31 18:01:23][Room.addPlayer] Jogador '2' 'Lain'; OldSlot: -1; NewSlot: 0
+[Data: 20/05/31 18:01:40][Room.SwitchNewSlot] Jogador '2' 'Lain'; OldSlot: 0; NewSlot: 1
+[Data: 20/05/31 18:01:42][Room.SwitchNewSlot] Jogador '2' 'Lain'; OldSlot: 1; NewSlot: 0
+[Data: 20/05/31 18:01:47][Room.RemovePlayer] Jogador '2' 'Lain'; OldSlot: 0; NewSlot: -1

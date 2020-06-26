@@ -1,0 +1,5 @@
+[Data: 20/05/27 20:14:46][Room.addPlayer] Jogador '5002' 'GM DeadoneV5'; OldSlot: -1; NewSlot: 0
+[Data: 20/05/27 20:14:51][Room.addPlayer] Jogador '5005' 'GM CJonaas'; OldSlot: -1; NewSlot: 1
+[Data: 20/05/27 20:17:31][Room.SwitchNewSlot] Jogador '5002' 'GM DeadoneV5'; OldSlot: 0; NewSlot: 3
+[Data: 20/05/27 20:17:33][Room.SwitchNewSlot] Jogador '5002' 'GM DeadoneV5'; OldSlot: 3; NewSlot: 0
+[Data: 20/05/27 20:29:54][Room.RemovePlayer] Jogador '5002' 'GM DeadoneV5'; OldSlot: 0; NewSlot: -1

@@ -1,0 +1,28 @@
+[Room] Tech id: 1060864
+[Room] Room id: 001
+[Room] Channel id: 004
+[Room] Room name: 'Terra dos mortos!!'
+[Room] Room type: Explosion
+[Room] Room special: None
+[Room] Room weapons: Melee, Secondary, Primary
+[Room] Map name: 'BB_CARGOSHIP'
+[Room] Actual players count: 0
+[Room] Started battle.
+[Room] Round 2 has been started.
+[Room] Votekick has been started by 3 (Id: 5780; Nick: SHELBY_1919), (To: 0; Motive: NoManner)
+[Room] Votekick result: (Allies: 0; Enemys: 0); Total: (1/2)
+[Room] Round 3 has been started.
+[Room] Votekick has been started by 1 (Id: 5784; Nick: Donkey05), (To: 3; Motive: NoManner)
+[Room] Votekick result: (Allies: 0; Enemys: 0); Total: (1/2)
+[Room] Round 4 has been started.
+[Room] Round 5 has been started.
+[Room] ;------------------;
+[Room] Battle is finished.
+[Room] Tech id: 1060864
+[Room] Used spawn count: 17
+[Room] End Players count: 3
+[Room] ;------------------;
+[Room] Room result info.
+[Room] Player (Id: 5798; Slot: 0) Exp: 334; Gp: 289; KD: 6/1; Score: 40
+[Room] Player (Id: 5784; Slot: 1) Exp: 170; Gp: 144; KD: 1/4; Score: 5
+[Room] Player (Id: 5780; Slot: 3) Exp: 173; Gp: 147; KD: 1/3; Score: 10

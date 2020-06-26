@@ -1,0 +1,7 @@
+[AUTH] Servidor de login foi iniciado com sucesso!
+ [LOGIN] Efetuando login. Date: 28/05/2020 23:15:21 User: deadzonev5 MAC: D8CB8A115B85 IP: 131.221.62.12
+ [LOGIN] Efetuando login. Date: 28/05/2020 23:16:04 User: vznndstr MAC: 94DE80F34213 IP: 138.99.31.153
+ [LOGIN] Efetuando login. Date: 28/05/2020 23:18:19 User: vitorpbu MAC: 94DE80F34213 IP: 138.99.31.153
+ [LOGIN] Efetuando login. Date: 28/05/2020 23:34:52 User: agrellaandre1 MAC: ECA86BB382EB IP: 191.177.181.179
+ [Auth] [BASE_USER_FRIENDS_PAK] System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Auth.global.serverpacket.BASE_USER_FRIENDS_PAK.write()

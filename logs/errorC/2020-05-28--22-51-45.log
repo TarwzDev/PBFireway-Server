@@ -1,0 +1,8 @@
+[Data: 20/05/28 23:18:42][Room.addPlayer] Jogador '5028' 'Fakº'; OldSlot: -1; NewSlot: 0
+[Data: 20/05/28 23:18:45][Room.RemovePlayer] Jogador '5028' 'Fakº'; OldSlot: 0; NewSlot: -1
+[Data: 20/05/28 23:18:49][Room.addPlayer] Jogador '5028' 'Fakº'; OldSlot: -1; NewSlot: 0
+[Data: 20/05/28 23:18:56][Room.addPlayer] Jogador '5020' '*-*ERRO404*-*'; OldSlot: -1; NewSlot: 1
+[Data: 20/05/28 23:19:53][Room.RemovePlayer] Jogador '5028' 'Fakº'; OldSlot: 0; NewSlot: -1
+[Data: 20/05/28 23:19:59][Room.RemovePlayer] Jogador '5020' '*-*ERRO404*-*'; OldSlot: 1; NewSlot: -1
+[Data: 20/05/28 23:20:12][Room.addPlayer] Jogador '5020' '*-*ERRO404*-*'; OldSlot: -1; NewSlot: 0
+[Data: 20/05/28 23:31:56][Room.RemovePlayer] Jogador '5020' '*-*ERRO404*-*'; OldSlot: 0; NewSlot: -1

@@ -1,0 +1,2306 @@
+[AUTH] Servidor de login foi iniciado com sucesso!
+ [LOGIN] Efetuando login. Date: 02/06/2020 00:59:33 User: admin MAC: 7085C2C6D462 IP: 177.36.6.242
+ [LOGIN] Efetuando login. Date: 02/06/2020 01:45:16 User: admin MAC: 7085C2C6D462 IP: 177.36.6.242
+ [LOGIN] Efetuando login. Date: 02/06/2020 01:52:50 User: admin MAC: 7085C2C6D462 IP: 177.36.6.242
+ [LOGIN] Efetuando login. Date: 02/06/2020 01:59:57 User: admin MAC: 7085C2C6D462 IP: 177.36.6.242
+ [LOGIN] Efetuando login. Date: 02/06/2020 09:01:48 User: joaofr MAC: BC5FF4F92694 IP: 138.121.33.50
+ [LOGIN] Efetuando login. Date: 02/06/2020 12:47:09 User: admin MAC: 7085C2C6D462 IP: 177.36.6.242
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+Connection destroyed due to no responses.
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+Connection destroyed due to no responses.
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+Connection destroyed due to no responses.
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+Connection destroyed due to no responses.
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+Connection destroyed due to no responses.
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+[Failed a LC connection] System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Auth.LoginManager.AcceptCallback(IAsyncResult result)
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.
+Connection destroyed due to no responses.

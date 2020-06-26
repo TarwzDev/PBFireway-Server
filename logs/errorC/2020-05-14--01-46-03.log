@@ -1,0 +1,12 @@
+[Data: 20/05/14 01:53:02][Room.addPlayer] Jogador '5784' 'Donkey05'; OldSlot: -1; NewSlot: 0
+[Data: 20/05/14 01:53:07][Room.addPlayer] Jogador '5760' 'GM CJonaas'; OldSlot: -1; NewSlot: 1
+[Data: 20/05/14 02:06:15][Room.RemovePlayer] Jogador '5760' 'GM CJonaas'; OldSlot: 1; NewSlot: -1
+[Data: 20/05/14 02:07:28][Room.addPlayer] Jogador '5760' 'GM CJonaas'; OldSlot: -1; NewSlot: 1
+[Data: 20/05/14 02:07:50][Room.RemovePlayer] Jogador '5760' 'GM CJonaas'; OldSlot: 1; NewSlot: -1
+[Data: 20/05/14 02:07:55][Room.addPlayer] Jogador '5760' 'GM CJonaas'; OldSlot: -1; NewSlot: 0
+[Data: 20/05/14 02:11:43][Room.RemovePlayer] Jogador '5784' 'Donkey05'; OldSlot: 0; NewSlot: -1
+[Data: 20/05/14 02:12:04][Room.addPlayer] Jogador '5784' 'Donkey05'; OldSlot: -1; NewSlot: 1
+[Data: 20/05/14 02:23:56][Room.RemovePlayer] Jogador '5784' 'Donkey05'; OldSlot: 1; NewSlot: -1
+[Data: 20/05/14 02:25:31][Room.RemovePlayer] Jogador '5760' 'GM CJonaas'; OldSlot: 0; NewSlot: -1
+[Data: 20/05/14 12:07:15][Room.addPlayer] Jogador '5784' 'Donkey05'; OldSlot: -1; NewSlot: 0
+[Data: 20/05/14 12:25:13][Room.RemovePlayer] Jogador '5784' 'Donkey05'; OldSlot: 0; NewSlot: -1
